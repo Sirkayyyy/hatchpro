@@ -31,7 +31,7 @@ export const KEYS = {
 }
 
 export const DEFAULT_SETTINGS = {
-  capacity: 30000,
+  capacity: 30720,
   incubationDays: 21,
   candlingDay: 7,
 }
